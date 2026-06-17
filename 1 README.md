@@ -23,16 +23,16 @@
 
 ## 🎯 Why This Exists
 
-IFF's Colors Solutions team — and every commercial team across the company — faces the same problem: **the knowledge exists, but accessing and communicating it at scale is slow, inconsistent, and manual.**
+IFF's Colors Solutions team and every commercial team across the company face the same problem: **the knowledge exists, but accessing and communicating it at scale is slow, inconsistent, and manual.**
 
 When a food brand asks *"Can you help us replace Red 40 in our cereal?"*, the right IFF response requires:
-- The correct color source from a 9-family portfolio
+- The correct color source from a 9 family portfolio
 - Application-specific stability data
 - Regional regulatory compliance
 - A case study matching their product category
 - A brand-consistent, visually compelling deck
 
-Today, building that response takes **4–8 hours per pitch**. With hundreds of reformulation inquiries accelerating due to the FDA synthetic dye phase-out (2026 deadline), the team cannot scale manually.
+Building that response takes **4–8 hours per pitch**. With hundreds of reformulation inquiries accelerating due to the FDA synthetic dye phase-out (2026 deadline), the team cannot scale manually.
 
 **SmartDeck exists to close that gap.**
 
